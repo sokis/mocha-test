@@ -2,7 +2,7 @@
 
 > Javascrip 测试框架，支持TDD，BDD等多种接口
 
-Mocha.js是被广泛使用的Javascript测试框架，官网：[http:\/\/mochajs.org\/](http://mochajs.org/)
+Mocha.js是被广泛使用的Javascript测试框架，官网：[http://mochajs.org/](http://mochajs.org/)
 
 官方对其的定义是：
 
@@ -22,7 +22,7 @@ npm install -g mocha
 安装好后，可使用mocha命令来使用mocha提供的功能。
 例如`mocha -h`可查看命令帮助，如下。
 
-![](/assets/9B050F47-3B2B-4821-983D-5FE8480D60D9.png)
+![](mocha-test/assets/b860940c-b642-465d-8621-0eedee09e5d8.jpg)
 
 几个重要的接口：
  **suite**：定义一组测试用例。
