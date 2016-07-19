@@ -22,7 +22,7 @@ npm install -g mocha
 安装好后，可使用mocha命令来使用mocha提供的功能。
 例如`mocha -h`可查看命令帮助，如下。
 
-![](mocha-test/assets/b860940c-b642-465d-8621-0eedee09e5d8.jpg)
+![](https://raw.githubusercontent.com/sokis/mocha-test/master/assets/b860940c-b642-465d-8621-0eedee09e5d8.jpg)
 
 几个重要的接口：
  **suite**：定义一组测试用例。
