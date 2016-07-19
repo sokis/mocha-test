@@ -25,12 +25,12 @@ npm install -g mocha
 ![](https://raw.githubusercontent.com/sokis/mocha-test/master/assets/b860940c-b642-465d-8621-0eedee09e5d8.jpg)
 
 几个重要的接口：
- **suite**：定义一组测试用例。
- **suiteSetup**：此方法会在这个suite所有测试用例执行前执行一次，只一次，这是跟setup的区别。
- **setup**：此方法会在每个测试用例执行前都执行一遍。
- **test**：具体执行的测试用例实现代码。
- **teardown**：此方法会在每个测试用例执行后都执行一遍，与setup相反。
- **suiteTeardown**：此方法会在这个suite所有测试用例执行后执行一次，与suiteSetup相反。
+ * **suite**：定义一组测试用例。
+ * **suiteSetup**：此方法会在这个suite所有测试用例执行前执行一次，只一次，这是跟setup的区别。
+ * **setup**：此方法会在每个测试用例执行前都执行一遍。
+ * **test**：具体执行的测试用例实现代码。
+ * **teardown**：此方法会在每个测试用例执行后都执行一遍，与setup相反。
+ * **suiteTeardown**：此方法会在这个suite所有测试用例执行后执行一次，与suiteSetup相反。
 
 测试用例代码如下：
 
